@@ -1,0 +1,25 @@
+body {
+  background-color: #eeaede;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  margin: 30px auto;
+  display: block;
+  max-width: 400px;
+}
+
+.links {
+  text-align: center;
+}
+.links a {
+  color: green;
+  margin: 0 10px;
+}
